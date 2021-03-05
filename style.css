@@ -1,0 +1,170 @@
+
+/* TOUS LE DOCUMENTS*/
+body {
+  font-family: Flamenco-regular;
+}
+
+/* LOGO + MENU NAV */
+#logo {
+  max-width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#navbarNavAltMarkup {
+  justify-content: center;
+}
+
+
+/* BARRE-DIVISEUR */
+.featurette-divider {
+  margin: 2rem 0; 
+  width: 720px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+/* BLOC ANONCES*/
+ 
+img[src="Image/recette1.jpg"]:hover {  
+  background: #3C3C3B; 
+  border: 1px solid transparent;
+}
+  
+img[src="Image/produits1.jpg"]:hover {  
+  background: #3C3C3B; 
+  border: 1px solid transparent;
+}
+
+ .featurette-heading {
+    font-size: 50px;
+    color: #FFD13A;
+}
+
+.lead {
+  text-align: justify;
+  }
+
+/* BLOC ÉQUIPE*/
+.col-lg-4 {
+  max-width: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+ 
+
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+/* rtl:begin:ignore */
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* NEWSLETTER*/
+.newsletter {
+  font-family: AmaticSC-Regular;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 50px;
+}
+
+.home-newsletter {
+padding: 30px 0;
+background: #3C3C3B;
+}
+
+.home-newsletter .single {
+max-width: 650px;
+margin: 0 auto;
+text-align: center;
+position: relative;
+z-index: 2; 
+}
+
+.home-newsletter .single h2 {
+font-size: 22px;
+color: white;
+text-transform: uppercase;
+margin-bottom: 40px;
+}
+
+.home-newsletter .single .form-control {
+height: 50px;
+background: #FFFFFF;
+border-color: transparent;
+border-radius: 10px 0 0 10px; 
+}
+
+.home-newsletter .single .form-control:focus {
+box-shadow: none;
+border-color: #FFD13A; 
+}
+
+.home-newsletter .single .btn {
+min-height: 50px; 
+border-radius: 0 10px 10px 0;
+background: #FFD13A;
+color: #FFFFFF;
+}
+
+.home-newsletter .single .btn:focus {
+box-shadow: none;
+border-color: #FFD13A; 
+}
+
+#equipe {
+  font-size: 50px;
+  text-align: center;
+  color: #FFD13A;
+  margin-bottom: 30px;
+}
+
+.etoiles {
+  text-align: center;
+  color: #FFD13A;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/*FOOTER*/
+#logo2 {
+  max-width: 15%;
+  margin-left: 50px;
+}
+
+i {
+  font-size: 30px;
+  padding: 5px;
+}
+
+#footer {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+
+a { 
+  color: #3C3C3B;
+}
+
+
+
+
+
+
+
+
